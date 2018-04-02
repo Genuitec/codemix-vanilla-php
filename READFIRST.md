@@ -9,4 +9,4 @@
 1. From the `Quick Open`  Command Palette (ctrl/cmd + shift + p) search for:
      `Terminal: Create New Integrated Terminal`
 2. From the `Quick Open` options select this project.
-3. Once you are inside the Terminal, execute: `php hello-world.php`
+3. Once you are inside the Terminal, execute: `php src/hello-world.php`
